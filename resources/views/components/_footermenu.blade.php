@@ -1,8 +1,8 @@
 <div class="footer">
     <div class="pull-right">
-        10GB of <strong>250GB</strong> Free.
+        Sea Admin - <strong>Sistema de RH</strong>
     </div>
     <div>
-        <strong>Copyright</strong> Example Company &copy; 2014-2017
+        <strong>PRO INPUT - Sistemas</strong>  &copy; 2014-2017
     </div>
 </div>
