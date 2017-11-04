@@ -26,16 +26,18 @@ const jsAdminList = [
     // Jquery and Dependencies
     "resources/assets/js/admin-js/jquery-3.1.1.min.js",
     "resources/assets/js/admin-js/bootstrap.js",
+    "resources/assets/js/admin-js/plugins/metisMenu/jquery.metisMenu.js",
+    "resources/assets/js/admin-js/plugins/slimscroll/jquery.slimscroll.js",
     "resources/assets/js/admin-js/inspinia.js",
-    "resources/assets/js/admin-js/metisMenu/jquery.metisMenu.js",
-    "resources/assets/js/admin-js/pace/pace.min",
-    "resources/assets/js/admin-js/slimscroll/jquery.slimscroll.js",
+    "resources/assets/js/admin-js/plugins/pace/pace.min",
+
 ]
 
 const resources = [
     "resources/assets/img/",
     "resources/assets/fonts/",
-    "resources/assets/css/patterns"
+    "resources/assets/css/patterns",
+    "resources/assets/patterns"
 ]
 
 const webAssetsDir = 'public/build/'
